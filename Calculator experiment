@@ -1,0 +1,8 @@
+operation = input("Please choose the operation you want to perform: (add, subtract, multiply, divide): ")
+if operation == "add"
+
+first_number = input("Please choose the first number you want to add:                                 \
+                     First number: ")
+second_number = input("Second number: ")
+result = float(First_number) + float(second_number)
+print(result)
